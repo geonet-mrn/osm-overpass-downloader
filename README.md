@@ -32,7 +32,7 @@ The script will then download the specified data and write the results to GeoJSO
 The produced GeoJSON files are named with the number/index of the task in the tasks list.
 
 
-## Design Principles and Decisions
+## Usage Considerations and Design Decisions
 
 ### Why GeoJSON?
 Being a text-based format, GeoJSON is not the best geodata file format in terms of data compression. If large amounts of data are to be stored, this can be a very significant disadvantage. However, GeoJSON also has two great advantages: Since it is JSON, it is *very* simple to write using Python's built-in JSON functionality, 
