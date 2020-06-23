@@ -1,0 +1,20 @@
+[
+    {
+        "description" : "Bicycle ways in Heidelberg",
+        "bbox": "(49.35,8.6,49.45,8.75)",
+        
+        "tags": [
+            "'bicycle'~'yes|designated|permissive|use_sidepath'",
+            "'highway'='cycleway'",
+            "'cycleway'"
+        ]
+    },
+    {
+        "description" : "Landcover data for the Rhine-Neckar region",
+        "bbox": "(48.9,7.8, 49.8,9.7)",
+        
+        "tags": [
+            "'landuse'"
+        ]
+    }
+]
